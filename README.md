@@ -21,19 +21,20 @@ The application is built using modern client-server standards to ensure scalabil
 *   **Investment Portfolio Management:** Assemble custom portfolios with specific asset weights, calculation of expected returns, and overall portfolio risk estimation (using VaR 95% metrics).
 *   **Personal Watchlist:** Users can add financial instruments to a personalized "Favorites" section for efficient daily market tracking.
 *   **Smart Alerts System:** Set specific price boundaries for selected tickers and trigger system signals when market thresholds are crossed.
-  ## 📸 Application Interface / Скриншоты
+
+## 📸 Application Interface / Скриншоты
 
 <details>
 <summary><b>Click to expand / Нажмите, чтобы открыть скриншоты</b></summary>
 
 ### 📈 Analytics Dashboard & Charts
-![Analytics Dashboard](analytics.png)
+<img src="analytics.png" alt="Analytics Dashboard" width="800" />
 
 ### 💼 Investment Portfolio Risk Analysis (VaR 95%)
-![Portfolio Management](portfolio.png)
+<img src="portfolio.png" alt="Portfolio Management" width="800" />
 
 ### 📱 Mobile Responsive Layout
-![Mobile UI](mobile.png)
+<img src="mobile.png" alt="Mobile UI" width="550" />
 
 </details>
 
