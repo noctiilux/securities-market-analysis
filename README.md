@@ -1,4 +1,6 @@
-# 📈 Securities Market Dynamics Analysis Application
+# 📈 Securities Market Dynamics Analysis Application 
+📋 *[Читать на русском языке](README_RU.md)*
+---
 
 A full-stack, modular web application designed for monitoring, processing, and interactively visualizing financial data from the Moscow Exchange (MOEX). The project features a client-server architecture and is fully containerized for seamless local deployment using Docker.
 
